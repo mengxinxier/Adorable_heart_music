@@ -1,0 +1,68 @@
+#东百
+music_station = "MAN"
+music = {
+	song = "东北人都是活雷锋"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "二人转东北人"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "红高粱模特队"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "红山果"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "家在东北"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "咱们屯里的人"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "家园"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "我为祖国献石油"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "小拜年"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "在那桃花盛开的地方"
+	chance = {
+		factor = 10
+	}
+}
+
