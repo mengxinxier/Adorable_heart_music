@@ -1,0 +1,150 @@
+#中华
+music = {
+	name = "DragonLee - 光耀神州"
+	file = "DragonLee - 光耀神州.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "HyperVapor,KAIRCI - 尚武精神"
+	file = "HyperVapor,KAIRCI - 尚武精神.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Platix_Zhang - 华灯初上（春节特别版）"
+	file = "Platix_Zhang - 华灯初上（春节特别版）.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Platix_Zhang - 华灯初上（加长版）"
+	file = "Platix_Zhang - 华灯初上（加长版）.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Platix_Zhang - 惊涛落日（Official Vers.）"
+	file = "Platix_Zhang - 惊涛落日（Official Vers.）.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Platix_Zhang - 神州万里"
+	file = "Platix_Zhang - 神州万里.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Platix_Zhang - 无-Jasmine Flower（Platix_Zhang remix）"
+	file = "Platix_Zhang - 无-Jasmine Flower（Platix_Zhang remix）.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Poe (CN),Helen Lee - Jasmine Flower (Club Mix)"
+	file = "Poe (CN),Helen Lee - Jasmine Flower (Club Mix).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - All Under Heaven"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - All Under Heaven.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - Blood & Glory"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - Blood & Glory.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - Duel Of Fates"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - Duel Of Fates.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - Era Of Prosperity"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - Era Of Prosperity.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - Fearful Odds"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - Fearful Odds.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - Fire"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - Fire.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - Flames Of The Phoenix"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - Flames Of The Phoenix.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - Heaven And Earth"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - Heaven And Earth.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - Imperial March"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - Imperial March.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - The Art Of War"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - The Art Of War.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - The Emperor's Will"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - The Emperor's Will.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - The Yellow Turban Rebellion"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - The Yellow Turban Rebellion.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Beddow,Simon Ravn,Richard Birdsall - Unite The Realms"
+	file = "Richard Beddow,Simon Ravn,Richard Birdsall - Unite The Realms.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Richard Birdsall - The Guiding Path"
+	file = "Richard Birdsall - The Guiding Path.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "浑元Rysn - 惊涛落日（唢呐）"
+	file = "浑元Rysn - 惊涛落日（唢呐）.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "有股鱼腥味owo - 列阵迎敌"
+	file = "有股鱼腥味owo - 列阵迎敌.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "中央乐团合唱队 - 国际歌"
+	file = "中央乐团合唱队 - 国际歌.ogg"
+	volume = 0.65
+}

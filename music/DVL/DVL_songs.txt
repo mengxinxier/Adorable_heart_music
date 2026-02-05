@@ -1,0 +1,337 @@
+#戴比
+music_station = "DVL"
+music = {
+	song = "Anna - kissの行方"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "Anna - ラッキーチューン"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "KOTOKO - Loop-the-Loop"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "Luce Twinkle Wink☆ - 恋色♡思考回路"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "Ray - Lovely Storm"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "Ray - secret arms"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "THYME - forever we can make it!"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "川田まみ - Gardens"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - あなた､恋をしていますか？"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - オレの気持ち"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - お気楽ソング"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - カワイ～～!"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - コ､コケ川"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - ゴメンネ"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - それぞれの時間"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - チャキチャキToLOVEる"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - ど～なっちゃうの～？"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - ドキドキ･リト"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - パーティー始めよっか!!"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - もっとToLOVEる"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - ヤミちゃん"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - リト､沈没"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - リトの匂いだ…"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - リトへの想い"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - ルンの想い"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 愛してる!"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 遅刻だァ～ッ!"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 敵対心"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 風紀を乱しちゃイケマセン"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 眠れないの…"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 賞金稼ぎ登場"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 突進～!!"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 無邪気なララ"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 雨上がりの空に"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - 楽しくToLOVEる"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺明乃 - じゃないぞ!乙女ちっく"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "分島花音 - ファールプレーにくらり"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "福圓美里 - Beyond The Darkness"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "福圓美里 - ミステイク？!DEATH"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "福圓美里 - 甘い世界"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "福圓美里,豊崎愛生,戸松遥 - そして君と恋をする"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "戸松遥 - Baby Baby Love"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "戸松遥 - 恋のLVE♂LVE♀大発明!"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "戸松遥 - 天真爛漫!オトメ冥利☆"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "戸松遥,矢作紗友里 - あっぷる・ぱにっく!？"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "渡辺剛 - リト､脱線"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "戸松遥,矢作紗友里 - メロメロマンちっく"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "戸松遥,矢作紗友里 - やってこい!ダイスキ♥…"
+	chance = {
+		factor = 10
+	}
+}

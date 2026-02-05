@@ -1,0 +1,288 @@
+#戴比
+music = {
+	name = "Anna - kissの行方"
+	file = "Anna - kissの行方.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Anna - ラッキーチューン"
+	file = "Anna - ラッキーチューン.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "KOTOKO - Loop-the-Loop"
+	file = "KOTOKO - Loop-the-Loop.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Luce Twinkle Wink☆ - 恋色♡思考回路"
+	file = "Luce Twinkle Wink☆ - 恋色♡思考回路.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Ray - Lovely Storm"
+	file = "Ray - Lovely Storm.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Ray - secret arms"
+	file = "Ray - secret arms.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "THYME - forever we can make it!"
+	file = "THYME - forever we can make it!.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "川田まみ - Gardens"
+	file = "川田まみ - Gardens.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - あなた､恋をしていますか？"
+	file = "渡辺剛 - あなた､恋をしていますか？.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - オレの気持ち"
+	file = "渡辺剛 - オレの気持ち.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - お気楽ソング"
+	file = "渡辺剛 - お気楽ソング.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - カワイ～～!"
+	file = "渡辺剛 - カワイ～～!.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - コ､コケ川"
+	file = "渡辺剛 - コ､コケ川.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - ゴメンネ"
+	file = "渡辺剛 - ゴメンネ.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - それぞれの時間"
+	file = "渡辺剛 - それぞれの時間.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - チャキチャキToLOVEる"
+	file = "渡辺剛 - チャキチャキToLOVEる.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - ど～なっちゃうの～？"
+	file = "渡辺剛 - ど～なっちゃうの～？.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - ドキドキ･リト"
+	file = "渡辺剛 - ドキドキ･リト.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - パーティー始めよっか!!"
+	file = "渡辺剛 - パーティー始めよっか!!.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - もっとToLOVEる"
+	file = "渡辺剛 - もっとToLOVEる.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - ヤミちゃん"
+	file = "渡辺剛 - ヤミちゃん.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - リト､沈没"
+	file = "渡辺剛 - リト､沈没.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - リト､脱線"
+	file = "渡辺剛 - リト､脱線.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - リトの匂いだ…"
+	file = "渡辺剛 - リトの匂いだ….ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - リトへの想い"
+	file = "渡辺剛 - リトへの想い.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - ルンの想い"
+	file = "渡辺剛 - ルンの想い.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 愛してる!"
+	file = "渡辺剛 - 愛してる!.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 遅刻だァ～ッ!"
+	file = "渡辺剛 - 遅刻だァ～ッ!.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 敵対心"
+	file = "渡辺剛 - 敵対心.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 風紀を乱しちゃイケマセン"
+	file = "渡辺剛 - 風紀を乱しちゃイケマセン.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 眠れないの…"
+	file = "渡辺剛 - 眠れないの….ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 賞金稼ぎ登場"
+	file = "渡辺剛 - 賞金稼ぎ登場.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 突進～!!"
+	file = "渡辺剛 - 突進～!!.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 無邪気なララ"
+	file = "渡辺剛 - 無邪気なララ.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 雨上がりの空に"
+	file = "渡辺剛 - 雨上がりの空に.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺剛 - 楽しくToLOVEる"
+	file = "渡辺剛 - 楽しくToLOVEる.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "渡辺明乃 - じゃないぞ!乙女ちっく"
+	file = "渡辺明乃 - じゃないぞ!乙女ちっく.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "分島花音 - ファールプレーにくらり"
+	file = "分島花音 - ファールプレーにくらり.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "福圓美里 - Beyond The Darkness"
+	file = "福圓美里 - Beyond The Darkness.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "福圓美里 - ミステイク？!DEATH"
+	file = "福圓美里 - ミステイク？!DEATH.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "福圓美里 - 甘い世界"
+	file = "福圓美里 - 甘い世界.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "福圓美里,豊崎愛生,戸松遥 - そして君と恋をする"
+	file = "福圓美里,豊崎愛生,戸松遥 - そして君と恋をする.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "戸松遥 - Baby Baby Love"
+	file = "戸松遥 - Baby Baby Love.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "戸松遥 - 恋のLVE♂LVE♀大発明!"
+	file = "戸松遥 - 恋のLVE♂LVE♀大発明!.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "戸松遥 - 天真爛漫!オトメ冥利☆"
+	file = "戸松遥 - 天真爛漫!オトメ冥利☆.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "戸松遥,矢作紗友里 - あっぷる・ぱにっく!？"
+	file = "戸松遥,矢作紗友里 - あっぷる・ぱにっく!？.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "戸松遥,矢作紗友里 - メロメロマンちっく"
+	file = "戸松遥,矢作紗友里 - メロメロマンちっく.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "戸松遥,矢作紗友里 - やってこい!ダイスキ♥…"
+	file = "戸松遥,矢作紗友里 - やってこい!ダイスキ♥.ogg"
+	volume = 0.65
+}

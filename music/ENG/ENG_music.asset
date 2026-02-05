@@ -1,0 +1,60 @@
+#圣杯王国
+music = {
+	name = "01 曲目 1"
+	file = "01 曲目 1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "02 曲目 2"
+	file = "02 曲目 2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Aimer-Brave Shine"
+	file = "Aimer-Brave Shine.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "不列颠万岁（日语版）"
+	file = "不列颠万岁（日语版）.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "漫漫长路到蒂帕雷里"
+	file = "漫漫长路到蒂帕雷里.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "噢，多可爱的战争"
+	file = "噢，多可爱的战争.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "统治吧不列颠尼亚 希望与光荣之土"
+	file = "统治吧不列颠尼亚 希望与光荣之土.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "英军五首连唱"
+	file = "英军五首连唱.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "掷弹兵进行曲"
+	file = "掷弹兵进行曲.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "掷弹兵进行曲2"
+	file = "掷弹兵进行曲2.ogg"
+	volume = 0.65
+}
