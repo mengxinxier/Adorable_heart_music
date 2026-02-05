@@ -1,0 +1,164 @@
+#幻想乡
+music = {
+	name = "众神眷恋的幻想乡"
+	file = "众神眷恋的幻想乡.ogg"
+	volume = 0.65
+}
+music = {
+	name = "fairy stage"
+	file = "fairy stage.ogg"
+	volume = 0.65
+}
+music = {
+	name = "HELLOHELL - Stack"
+	file = "HELLOHELL - Stack.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Necromantic(Acoustic ver.)"
+	file = "Necromantic(Acoustic ver.).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stack - Deep Dream Dominator"
+	file = "Stack - Deep Dream Dominator.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stack - WARNING×WARNING×WARNING"
+	file = "Stack - WARNING×WARNING×WARNING.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stack - 乾坤イッテキ！"
+	file = "Stack - 乾坤イッテキ！.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Battle Goes On (Instrumental Version)"
+	file = "The Battle Goes On (Instrumental Version).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Неразрывная страна фантазий"
+	file = "Неразрывная страна фантазий.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Священная война"
+	file = "Священная война.ogg"
+	volume = 0.65
+}
+music = {
+	name = "あやぽんず＊ - ラブアンドクラウンピース"
+	file = "あやぽんず＊ - ラブアンドクラウンピース.ogg"
+	volume = 0.65
+}
+music = {
+	name = "あやぽんず＊,あよ - ダイナマイト"
+	file = "あやぽんず＊,あよ - ダイナマイト.ogg"
+	volume = 0.65
+}
+music = {
+	name = "エリニュエスの純心"
+	file = "エリニュエスの純心.ogg"
+	volume = 0.65
+}
+music = {
+	name = "カフカなる群青へ　 - 森永真由美"
+	file = "カフカなる群青へ　 - 森永真由美.ogg"
+	volume = 0.65
+}
+music = {
+	name = "のみこ,Nardis - BadApple!! (Nardis Remix)"
+	file = "のみこ,Nardis - BadApple!! (Nardis Remix).ogg"
+	volume = 0.65
+}
+music = {
+	name = "故郷の星が映る海 - 上海アリス幻樂団"
+	file = "故郷の星が映る海 - 上海アリス幻樂団.ogg"
+	volume = 0.65
+}
+music = {
+	name = "紅に染まる恋の花(with Marcia)"
+	file = "紅に染まる恋の花(with Marcia).ogg"
+	volume = 0.65
+}
+music = {
+	name = "狐の工作室 - 人類と英知の旅路"
+	file = "狐の工作室 - 人類と英知の旅路.ogg"
+	volume = 0.65
+}
+music = {
+	name = "黄昏フロンティア,上海アリス幻樂団 - 砕月"
+	file = "黄昏フロンティア,上海アリス幻樂団 - 砕月.ogg"
+	volume = 0.65
+}
+music = {
+	name = "零れ桜 - 森永真由美"
+	file = "零れ桜 - 森永真由美.ogg"
+	volume = 0.65
+}
+music = {
+	name = "梦消失 ~ Потерянный-сон"
+	file = "梦消失 ~ Потерянный-сон.ogg"
+	volume = 0.65
+}
+music = {
+	name = "明日ハレの日ケの昨日 - 交響アクティブNEETs"
+	file = "明日ハレの日ケの昨日 - 交響アクティブNEETs.ogg"
+	volume = 0.65
+}
+music = {
+	name = "彷徨いの冥天 [with 天宮みや&姫城碧海]"
+	file = "彷徨いの冥天 [with 天宮みや&姫城碧海].ogg"
+	volume = 0.65
+}
+music = {
+	name = "三妖精SAY YA!!!"
+	file = "三妖精SAY YA!!!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "色は匂へど散りぬるを"
+	file = "色は匂へど散りぬるを.ogg"
+	volume = 0.65
+}
+music = {
+	name = "森羅万象 - Help me, ERINNNNNN!! 森羅万象ver"
+	file = "森羅万象 - Help me, ERINNNNNN!! 森羅万象ver.ogg"
+	volume = 0.65
+}
+music = {
+	name = "森永真由美 - 月に叢雲華に風(Vocal version)"
+	file = "森永真由美 - 月に叢雲華に風(Vocal version).ogg"
+	volume = 0.65
+}
+music = {
+	name = "世界は可愛く出来ている "
+	file = "世界は可愛く出来ている .ogg"
+	volume = 0.65
+}
+music = {
+	name = "兎明 - 胸の中で誰かが(Vocal version)"
+	file = "兎明 - 胸の中で誰かが(Vocal version).ogg"
+	volume = 0.65
+}
+music = {
+	name = "永遠の都で[with Marcia] - Marcia"
+	file = "永遠の都で[with Marcia] - Marcia.ogg"
+	volume = 0.65
+}
+music = {
+	name = "仲村芽衣子 - 童祭 (feat.仲村芽衣子)"
+	file = "仲村芽衣子 - 童祭 (feat.仲村芽衣子).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Opposite World"
+	file = "Opposite World.ogg"
+}
+music = {
+	name = "魔法少女達の百年祭"
+	file = "魔法少女達の百年祭.ogg"
+}

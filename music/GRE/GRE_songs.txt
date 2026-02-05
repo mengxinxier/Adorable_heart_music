@@ -1,0 +1,104 @@
+#幻想乡
+music_station = "GRE"
+music = {
+	song = "Believe in You"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "door"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "I Trust You"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "Long shot"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "Memento-nonoc"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "NOX LUX"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "Paradisus-Paradoxum"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "Ramsayhall "
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "Realize"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "Redo"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "Reweave "
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "Stay Alive"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "STYX HELIX"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "theater D"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "Wishing"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "あなたの知らないこと"
+	chance = {
+		factor = 10
+	}
+}
+music = {
+	song = "ぼうやの夢よ"
+	chance = {
+		factor = 10
+	}
+}
