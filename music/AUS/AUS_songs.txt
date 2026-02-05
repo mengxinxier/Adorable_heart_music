@@ -1,0 +1,106 @@
+#奥地利
+music_station = "AUS"
+music = {
+	song = "Das Lied der Deutschen"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "Erika（八音盒）"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "Erika"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "Hundred over"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "Εrικα"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "黑褐色的是榛子"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "空域中的至高之王"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "莉莉玛莲（超时空要塞版）"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "莉莉玛莲(强袭魔女版)"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "莉莉玛莲"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "罗尔之歌x在绿色的森林中"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "守望莱茵"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "突出部战役"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "我们要在齐格飞防线把衣服晒"
+	chance = {
+		factor = 10
+	}
+}
+
+music = {
+	song = "一分钱与五角钱"
+	chance = {
+		factor = 10
+	}
+}

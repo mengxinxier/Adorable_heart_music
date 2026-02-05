@@ -1,0 +1,90 @@
+#奥地利
+music = {
+	name = "Das Lied der Deutschen"
+	file = "Das Lied der Deutschen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Erika（八音盒）"
+	file = "Erika（八音盒）.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Erika"
+	file = "Erika.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Hundred over"
+	file = "Hundred over.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Εrικα"
+	file = "Εrικα.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "黑褐色的是榛子"
+	file = "黑褐色的是榛子.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "空域中的至高之王"
+	file = "空域中的至高之王.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "莉莉玛莲（超时空要塞版）"
+	file = "莉莉玛莲（超时空要塞版）.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "莉莉玛莲(强袭魔女版)"
+	file = "莉莉玛莲(强袭魔女版).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "莉莉玛莲"
+	file = "莉莉玛莲.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "罗尔之歌x在绿色的森林中"
+	file = "罗尔之歌x在绿色的森林中.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "守望莱茵"
+	file = "守望莱茵.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "突出部战役"
+	file = "突出部战役.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "我们要在齐格飞防线把衣服晒"
+	file = "我们要在齐格飞防线把衣服晒.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "一分钱与五角钱"
+	file = "一分钱与五角钱.ogg"
+	volume = 0.65
+}
